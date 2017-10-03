@@ -2,17 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[CV](cv/JavierUbillos-CV2017-10-02.pdf)
+
 
 [Link to another page](another-page).
 
-There should be whitespace between paragraphs.
+{% include_relative articles/the_customer_guides.md %}
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## [](#header-2)Header 2
 
