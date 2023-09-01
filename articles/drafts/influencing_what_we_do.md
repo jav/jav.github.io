@@ -2,7 +2,17 @@
 ### What we build is driven by what our users/customers want.
 ###### 2023-03-25
 
-In 1-1 with my team-members, I have often heard the concern that they aren't being heard when wanting to influence priorities. Occationally, I too have experienced this frustration. An inability to contribute to priorities in a constructive and informed way.
+> "My input to priorities is never heard!"
+
+or
+
+> "My engineers only focus on the technical implementation, I need help finding pragmatic customer solutions!"
+
+In 1-1 with my team-members, I often hear the concern that teammembers don't feel heard when wanting to influence priorities. 
+
+It's an experience and frustration I too have lived through.
+
+An inability to contribute to priorities in a constructive and informed way.
 To me, this frustration has always stemmed from an insufficient understanding of the end-user needs.
 
 What we build is driven by what our users/customers want.
@@ -16,6 +26,15 @@ Not having an intimate understanding of what customers want limit one's ability 
 Problem solutions that cite concrete user needs and wants will always trump solutions that can't do the same.
 
 **In summary**:
+
 To be a constructive and informed participant in prorities one needs to carry an insight in what our users needs are.
+
+Feeling that your input is not heard, or feeling that your team don't contribute to finding customer solutions can be an indication that there is a disconnect between the individual and understanding customer needs.
+
+**Remediation suggestions**:
+
+Connect teammembers and customers. E.g. by include teammembers in user interviews, or visualizing customer personas and emphasize the customer perspective, needs and behaviors.
+
+
 
 
