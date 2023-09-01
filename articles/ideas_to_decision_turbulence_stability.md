@@ -27,3 +27,5 @@ In my own experience, everyone tends to place their favourite place in the turbu
 Also, often, individuals discover that they are happier somewhere in between the two extremes.
 
 The beauty of inviting our co-workers to make this discovery lies in that they can let go of their frustrations, as they're both invited to participate and that expectations on the participation can be communicated. The co-worker can them selves understand and discover where on the scale they can contribute the most.
+
+> Looking forward, we see a path full of possibilities, but looking back, we see a single footprint.
