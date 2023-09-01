@@ -1,5 +1,6 @@
 # [](#header-1) The ideal team; autonomous and pragmatic
 ### Pragmatism on delivering to the customer and autonomy are not mutually exclusive
+###### 2017-10-03
 
 A perpetual challenge for me has always been to preserve my teams
 autonomy, a property I value highly. However, too often a false

@@ -1,7 +1,7 @@
 
 # [](#header-1) The customer is the guide.
 ### Don’t _ever_ develop without a customer waiting and longing for your product!
-
+###### 2017-10-03
 Whenever you start working on a story, you start creating risk.
 Risk that you are on the wrong path.
 
