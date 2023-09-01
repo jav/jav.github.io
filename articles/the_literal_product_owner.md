@@ -1,6 +1,6 @@
 # [](#header-1) The literal product owner
 ### An antipattern
-##### 2017-10-03
+###### 2017-10-03
 
 It is common that a new product owner, taking the name of the role
 literary, feels that they _exclusively_ own:
