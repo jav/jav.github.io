@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-[Javiers Curriculum (pdf)](cv/JavierUbillos-CV2017-10-02.pdf)
 
 3. [The customer is the guide](#the_customer_is_the_guide)
 2. [The ideal team](#the_ideal_team)
