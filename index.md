@@ -3,12 +3,14 @@ layout: default
 ---
 
 
-6. [Influencing what we do](#influencing_what_we_do)
-5. [Beeing a part of the decision birthing](#ideas_to_decision_turbulence_stability)
-4. [Merge or split the domain and team?](#could_a_single_person_prioritize_a_domain)
-3. [The customer is the guide](#the_customer_is_the_guide)
-2. [The ideal team](#the_ideal_team)
-1. [The literal product owner](#the_literal_product_owner)
+[Curriculum Vitae](https://jav.github.io/cv/JavierUbillosShortCV.pdf)
+
+1. [Influencing what we do](#influencing_what_we_do)
+2. [Beeing a part of the decision birthing](#ideas_to_decision_turbulence_stability)
+3. [Merge or split the domain and team?](#could_a_single_person_prioritize_a_domain)
+4. [The customer is the guide](#the_customer_is_the_guide)
+5. [The ideal team](#the_ideal_team)
+6. [The literal product owner](#the_literal_product_owner)
 
 
 
