@@ -6,6 +6,7 @@ layout: default
 [Curriculum Vitae](https://jav.github.io/cv/JavierUbillosShortCV.pdf)
 
 1. [Project "Surveytank", chapter two, the first user interview][#surveytank_two]
+1. [A quick user-research example][#a_quick_user_research_example]
 1. [Project "Surveytank", chapter one](#surveytank_one)
 1. [Influencing what we do](#influencing_what_we_do)
 2. [Beeing a part of the decision birthing](#ideas_to_decision_turbulence_stability)
@@ -14,6 +15,9 @@ layout: default
 5. [The ideal team](#the_ideal_team)
 6. [The literal product owner](#the_literal_product_owner)
 
+
+<a name="a_quick_user_research_example" />
+{% include_relative articles/a_quick_user_research_example.md %}
 
 <a name="surveytank_two" />
 {% include_relative articles/surveytank_two.md %}
