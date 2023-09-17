@@ -5,15 +5,15 @@ layout: default
 
 [Curriculum Vitae](https://jav.github.io/cv/JavierUbillosShortCV.pdf)
 
-1. [Project "Surveytank", chapter two, the first user interview][#surveytank_two]
-1. [A quick user-research example][#a_quick_user_research_example]
-1. [Project "Surveytank", chapter one](#surveytank_one)
-1. [Influencing what we do](#influencing_what_we_do)
-2. [Beeing a part of the decision birthing](#ideas_to_decision_turbulence_stability)
-3. [Merge or split the domain and team?](#could_a_single_person_prioritize_a_domain)
-4. [The customer is the guide](#the_customer_is_the_guide)
-5. [The ideal team](#the_ideal_team)
-6. [The literal product owner](#the_literal_product_owner)
+1. [Project "Surveytank", chapter two, the first user interview](#surveytank_two)
+2. [A quick user-research example](#a_quick_user_research_example)
+3. [Project "Surveytank", chapter one](#surveytank_one)
+4. [Influencing what we do](#influencing_what_we_do)
+5. [Beeing a part of the decision birthing](#ideas_to_decision_turbulence_stability)
+6. [Merge or split the domain and team?](#could_a_single_person_prioritize_a_domain)
+7. [The customer is the guide](#the_customer_is_the_guide)
+8. [The ideal team](#the_ideal_team)
+9. [The literal product owner](#the_literal_product_owner)
 
 
 <a name="a_quick_user_research_example" />
