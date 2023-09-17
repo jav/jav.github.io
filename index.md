@@ -5,6 +5,7 @@ layout: default
 
 [Curriculum Vitae](https://jav.github.io/cv/JavierUbillosShortCV.pdf)
 
+1. [Laws of nature of a backlog](#end_of_backlog)
 1. [Project "Surveytank", chapter two, the first user interview](#surveytank_two)
 2. [A quick user-research example](#a_quick_user_research_example)
 3. [Project "Surveytank", chapter one](#surveytank_one)
@@ -15,6 +16,9 @@ layout: default
 8. [The ideal team](#the_ideal_team)
 9. [The literal product owner](#the_literal_product_owner)
 
+
+<a name="end_of_backlog" />
+{% include_relative articles/end_of_backlog.md %}
 
 <a name="a_quick_user_research_example" />
 {% include_relative articles/a_quick_user_research_example.md %}
