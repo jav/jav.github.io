@@ -5,17 +5,21 @@ layout: default
 
 [Curriculum Vitae](https://jav.github.io/cv/JavierUbillosShortCV.pdf)
 
-1. [Laws of nature of a backlog](#end_of_backlog)
-1. [Project "Surveytank", chapter two, the first user interview](#surveytank_two)
-2. [A quick user-research example](#a_quick_user_research_example)
-3. [Project "Surveytank", chapter one](#surveytank_one)
-4. [Influencing what we do](#influencing_what_we_do)
-5. [Beeing a part of the decision birthing](#ideas_to_decision_turbulence_stability)
-6. [Merge or split the domain and team?](#could_a_single_person_prioritize_a_domain)
-7. [The customer is the guide](#the_customer_is_the_guide)
-8. [The ideal team](#the_ideal_team)
-9. [The literal product owner](#the_literal_product_owner)
+1. [Trying out GPT to get writing coaching](#content_feedback)
+2. [Laws of nature of a backlog](#end_of_backlog)
+3. [Project "Surveytank", chapter two, the first user interview](#surveytank_two)
+4. [A quick user-research example](#a_quick_user_research_example)
+5. [Project "Surveytank", chapter one](#surveytank_one)
+6. [Influencing what we do](#influencing_what_we_do)
+7. [Beeing a part of the decision birthing](#ideas_to_decision_turbulence_stability)
+8. [Merge or split the domain and team?](#could_a_single_person_prioritize_a_domain)
+9. [The customer is the guide](#the_customer_is_the_guide)
+10. [The ideal team](#the_ideal_team)
+11. [The literal product owner](#the_literal_product_owner)
 
+
+<a name="content_feedback" />
+{% include_relative articles/content_feedback.md %}
 
 <a name="end_of_backlog" />
 {% include_relative articles/end_of_backlog.md %}
