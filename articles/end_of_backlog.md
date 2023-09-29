@@ -2,60 +2,97 @@
 ## Or, "why don't we ever work on that item that has been the second highest priority for over a year now?"
 
 
-> A frustrated and upset team member expresses:
+> I find myself in situation where a team member member expresses:
 > "New things keep coming in! When will we ever get to the end of the backlog?"
 > 
-> Sisyfos the wise answered: "The end of the backlog is not our goal. But every step is a success."
+> We'll never get to the end of the backlog. 
+> 
+> We shouldn't. 
+> 
+> The last item is the one with the lowest `value / effort` ratio.
+>
+> We look to celebrate the completion of each piece of value  we bring to our 
+> stakeholders. 
 
-Each item or story should be a success in itself. Each delivering value to our stakeholders. The items towards the end of  the backlog are synonymous to 'items of the lowest priority'.
-Each item delivers value, and each item delivers value. Then why _would_ we work on items of low priority when there are items of high priority to work on? 🤷
+### The structure of the backlog.
 
-Our backlog is a prioritised collection of items that we might choose to work on.
-Items at the top of the backlog are items of higher priority.
-Items where we believe the reward / effort quota is high.
+Each item or story should be a success in itself.
 
-Items at the bottom of the backlog are items of lower priority.
-Items with a less rewarding reward / effort quota.
+Each delivering value to our stakeholders. 
 
+> **The backlog is sorted in order of priority**
+>
+> Items at the top of the backlog are items of higher priority. 
+> 
+> High `value / effort` ratio.
+>
+> 
+> Items at the bottom of the backlog are items of lower priority.
+>
+> Low `value / effort` ratio.
+
+#### The impact of working on the backlog
+
+We consume the backlog from the top.
+
+High priority items are worked on (eventually removed).
+
+Low priority items stay in the backlog.
+
+> **Lemma 1**: If no items are added to the backlog, then the average `value / effort` of items in the backlog will continually lower
+
+
+> 1.   Higest priority items are worked on, completed and removed from the backlog.
+> 2.   Low priority items are not worked on and hence remain in the backlog
+> -----------------------------------------------------------------
+> ∴   High priority items are removed, low priority items linger. Over time lowering the average priority of items in  backlog
+
+### New things are added to the backlog
+
+**Stakeholders as "high pass filters"**
 
 Any stakeholder (ourselves included) may suggest items to the backlog.
-This means that, any added item, has passed the filter of someone (a stakeholder) judging the item of being high enough importance to be suggested to the backlog.
-Unimportant things have a tendency to never be added.
+This means that, any added item, has passed the filter of a stakeholder judging the item of being high enough importance to be suggested to the backlog.
+
+Stakeholders won't choose items they themselves consider unimportant.
+
+**Accepting items to the backlog as a "high pass filter"**
+
 Another filter, is accepting the item to the backlog. Low value or low priority items may be blocked from making it to the backlog at all.
+
+**These filters are stochastic**
 
 An important detail about these filters are their stochastic nature.
 High value items have a higher likelihood of passing the filter.
 Lower value items will have a lower likelihood of passing the filter.
 
+> **Lemma 2**: New items inserted to the backlog tend to have higher than average `value / effort` ratio.
 
-This gives us:
-High priority items are worked on (and removed), low priority items stay in the backlog.
 
-```
-1.   We work on the highest priority items first, completing them and removing them from the backlog
-2.   We won't have time to work on the lower priority items, allowing them to remain in the backlog
------------------------------------------------------------------
-∴   High priority items are removed, low priority items linger. Lowering the average priority of our backlog
-```
+> 1.   New items are considered important by the stakeholder contributing it
+> 2.   The backlog rejects items of low `value / effort` ratio
+> -----------------------------------------------------------------
+> ∴   New items have a bias to be of higher `value / effort` ratio
 
-New items have passed through two stochastic filters, biassing towards letting high value items pass.
 
-```
-1.   New items are considered important by the stakeholder contributing it
-2.   Our backlogs average priority always tends to lower
------------------------------------------------------------------
-∴   New items have a bias to be added in the upper portion of our backlog
-```
+> **Lemma 1 + Lemma 2** 
+>
+> 1. "High priority items are removed, low priority items linger. Over time lowering the average priority of items in  backlog"
+> 
+> 2. "New items have a bias to be of higer `value / effort` ratio"
+> ----------------------------------------------------------
+> ∴   In a maturing backlog, new items will have a bias towards having a higher `value / effort` ratio than the backlog average.
 
-Meaning that, unless new work _stops_ from coming in, we will probably _never_ reach the bottom of the backlog.
 
-BUT THERE IS HOPE!
+
+### BUT THERE IS HOPE!
 
 It _is_ possible to experience the joy of completion!
 
-Completion dosen't have to be measured by "Did we finish all the tickets?". It can also be measured as "Did we succeed to deliver new joy to our users?".
+Completion dosen't have to be measured by "Did we reach the bottom of the backlog?"
+
+Completion can be about:
+
+"Did we succeed to deliver new joy to our users?".
 
 By scoping our work into smaller pieces, where each brings value. We can celebrate the completion of each, regardless of how many remain.
-
-Or as Sisyfos the wise would have said:
-> "Celebrate each completed step, for each is a victory and one step closer to the goal."
